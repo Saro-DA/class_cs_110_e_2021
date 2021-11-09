@@ -1,6 +1,6 @@
 
 const obj = {
-    name: "Gevorg",
+    "name": "Gevorg",
     age: 20
 }
 
